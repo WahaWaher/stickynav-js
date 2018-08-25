@@ -31,7 +31,7 @@ $(document).ready(function() {
 	$('.site-header').stickyNav({
 
 		// mode: 'custom',
-		// stickyClass: 'sticky-nav animation-options',
+		stickyClass: 'sticky-nav animation-options',
 		// visibleClass: 'visible',
 		// scrollTop: 0,
 		// scrollFrom: 'document',
